@@ -1,0 +1,8 @@
+id,cleaned_code,tokens,ast
+1,"def add(a, b):
+return a + b","['def', 'add', '(', 'a', ',', 'b', ')', ':', 'return', 'a', '+', 'b']",
+2,"def multiply(a, b):
+return a * b","['def', 'multiply', '(', 'a', ',', 'b', ')', ':', 'return', 'a', '*', 'b']",
+3,"def add(a, b):
+sum = a + b
+return sum","['def', 'add', '(', 'a', ',', 'b', ')', ':', 'sum', '=', 'a', '+', 'b', 'return', 'sum']",
